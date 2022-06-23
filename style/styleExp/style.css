@@ -1,0 +1,63 @@
+.container-exp{
+    width: 60%;
+    height: 50px;
+    margin:  5.2%;
+    background-color: whitesmoke;
+    border-radius: 4%;
+    cursor: pointer;
+    -webkit-box-shadow: 9px 6px 5px rgba(50, 50, 50, 0.77);
+    -moz-box-shadow:    9px 6px 5px rgba(50, 50, 50, 0.77);
+    box-shadow:         9px 6px 5px rgba(50, 50, 50, 0.77);
+}
+
+
+.modify{
+    display: none;
+}
+
+
+
+.container-exp-two{
+    width: 60%;
+    height: 50px;
+    margin:  5.2%;
+    background-color: whitesmoke;
+    border-radius: 4%;
+    cursor: pointer;
+    -webkit-box-shadow: 9px 6px 5px rgba(50, 50, 50, 0.77);
+    -moz-box-shadow:    9px 6px 5px rgba(50, 50, 50, 0.77);
+    box-shadow:         9px 6px 5px rgba(50, 50, 50, 0.77);
+}
+
+
+.modify-two{
+    display: none;
+}
+
+
+.container-exp-three{
+    width: 60%;
+    height: 50px;
+    margin:  5.2%;
+    background-color: whitesmoke;
+    border-radius: 4%;
+    cursor: pointer;
+    -webkit-box-shadow: 9px 6px 5px rgba(50, 50, 50, 0.77);
+    -moz-box-shadow:    9px 6px 5px rgba(50, 50, 50, 0.77);
+    box-shadow:         9px 6px 5px rgba(50, 50, 50, 0.77);
+}
+
+
+.modify-three{
+    display: none;
+}
+
+.text-close{
+    display: none;
+    margin-right: 11px;
+    margin-top:-28px;
+    flex-direction: row-reverse;
+    color: black;
+    font-size:  22px;
+    display: flex;
+}

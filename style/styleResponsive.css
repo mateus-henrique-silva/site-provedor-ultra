@@ -1,0 +1,121 @@
+
+
+	
+	@media (max-width:857px){
+		.nav-img{
+
+			background: url("/imgs/papeldeparedecorte1\ \(1\).png") no-repeat center;
+			background-size: 50% 50%;
+			height:60vh;
+		}
+
+		.text-intro{
+			width: 100%;
+		
+			animation: go-back 1s;
+			margin-top:200px;
+		
+			
+		}
+		iframe{
+			width: 100%;
+		}
+		.img-intro-maps{
+			width: 100%;
+		}
+		.text-us-maps{width:90%;}
+	
+	}
+
+	@media (max-width:724px){
+		.nav-img{
+			background: url("/imgs/papeldeparedecorte1\ \(1\).png") no-repeat center;
+		}
+
+		.container-two-maps{
+			display: inline-block;
+
+			flex-direction: row-reverse;
+			
+		}
+
+		iframe{
+			width: 100%;
+		}
+		.img-intro-maps{
+			width: 100%;
+		}
+		.text-us-maps{width:90%;}
+	}
+	@media (max-width:1145px){
+		.nav-img{
+			background-size:100%  100%;
+		}
+
+		
+	}
+
+
+@media (max-width:449px)and (min-width:300px){
+	.nav-img{
+		background-size:100% 50%;
+       
+	}
+	.footer-two{
+		margin-top:0px;
+	}
+	.footer{
+		margin-top:-10px;
+	 height:45vh;
+	}
+	.footer:first-child{
+		margin-left: -100px;
+	}
+	.footer-Ltda p{font-size: 6px;}
+	.footer-Ltda h3{
+		font-size: 4px;
+	}
+	.footer-Ltda img{width:80%;}
+	
+
+	.text-intro{
+		margin-top: 200px;
+	}
+
+	.container-two{
+		display: flex;
+		width: 100%;
+	}
+
+	.container-two button{
+		justify-content: center;
+	}
+	.text-us{
+		width: 100%;
+	}
+
+}
+
+
+
+@media (max-width:340px){
+	.nav-img{
+		background-size:100%  50%;
+	}
+
+	
+
+}
+
+
+@media (max-width:850px) and (min-width:450px){
+	.nav-img{
+		background-size:100%  66%;
+	}
+	.text-intro{
+		margin-top: 200px;
+	}
+        h2 a{
+            padding: 2% 5%;
+        }
+}
